@@ -59,7 +59,8 @@ function PostList({ posts }: { posts: Post[] }) {
 ```
 The !posts check can never be true - TypeScript already says posts is an array. So when the data is actually still loading, posts is [], and the user sees "No posts yet" instead of a loading message. The AI defended against an impossible bug. The real one "loading should look different from empty" was missed.
 It's copying patterns from other code, not thinking about your code.
-Fake types
+
+### Fake types
 Watch for comments that tell TypeScript to be quiet. Things like as any, or // @ts-expect-error. The AI wants the red lines in the editor to go away. That shortcut is often the bug.
 
 ### Tests that test nothing
