@@ -12,10 +12,10 @@ The idea is simple: if you've reviewed code and learned something — a habit, a
 
 ## 📖 Start here
 
-- **Read the article:** [What Code Reviews Taught Me Over Time](./ARTICLE.md)
+- **Read the article on Medium:** [What Code Reviews Taught Me Over Time](https://medium.com/@tgholami/what-code-reviews-taught-me-over-time-05984aa9fb08)
+- **Or read it here:** [ARTICLE.md](./ARTICLE.md)
 - **Read contributor notes:** [`/notes`](./notes)
 - **Add your own notes:** [How to contribute](./CONTRIBUTING.md)
-
 ---
 
 ## 🤝 How to contribute
