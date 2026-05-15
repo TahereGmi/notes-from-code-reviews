@@ -2,6 +2,8 @@
 
 Welcome — this is a small, open project, and contributions are warmly welcomed. You don't need to be an expert. You don't need to write a long article. Even one short note is valuable.
 
+This project started as an article — [What Code Reviews Taught Me Over Time](https://medium.com/@tgholami/what-code-reviews-taught-me-over-time-05984aa9fb08) — and is now open for everyone to add their own notes.
+
 ## Quick guide
 
 1. **Fork this repository.**
